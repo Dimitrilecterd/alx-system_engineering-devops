@@ -1,1 +1,1 @@
- rm : Delete the file betty.
+ rmdir : Delete the directory my_first_directory that is in the /tmp directory.
