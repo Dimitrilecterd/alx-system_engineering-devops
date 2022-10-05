@@ -1,1 +1,1 @@
- ls -la : Display current directory contents, including hidden files (starting with .). Use the long format.
+ ls -na : Display current directory contents.
