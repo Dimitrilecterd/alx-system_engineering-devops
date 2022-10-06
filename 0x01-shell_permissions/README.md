@@ -1,1 +1,1 @@
-0-iam_betty 1-who_am_i 2-groups 3-new_owner 4-empty 5-execute 6-multiple_permissions 7-everybody README.md  a script that adds execution permission to the owner, the group owner and the other users, to the file hello
+0-iam_betty 1-who_am_i 2-groups 3-new_owner 4-empty 5-execute 6-multiple_permissions 7-everybody 8-James_Bond README.md  a script that sets the permission to the file hello.
