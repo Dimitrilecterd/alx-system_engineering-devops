@@ -1,1 +1,1 @@
-0-iam_betty 10-mirror_permissions 1-who_am_i 2-groups 3-new_owner 4-empty 5-execute 6-multiple_permissions 7-everybody 8-James_Bond 9-John_Doe README.md   a script that sets the mode of the file hello the same as olleh’s mode.
+0-iam_betty 10-mirror_permissions 11-directories_permissions 1-who_am_i 2-groups 3-new_owner 4-empty 5-execute 6-multiple_permissions 7-everybody 8-James_Bond 9-John_Doe README.md a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
